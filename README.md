@@ -1,3 +1,4 @@
 # Sales insights data analysis using SQL and PowerBI
 ![AtliQ x Logo](https://github.com/SreelakshmiRaurora/Sales-insights---Data-analytics-project1/blob/main/images.png)
 ## Objective
+AtliQ hardware is a company which delievers computer hardware & peripheral manufacturers to the clients, which has several branches throught India.The sales director of the company is facing a lot of issues in terms of understanding how the business is performing and what are the problems company is facing currently as the sales are not as expected and declining gradually. And whenever the director  calls the regional manager to get the current status of the sales and market, as a human behavior , these people are not comfortable in consuming numbers from excel files, which is obvious reasson for the frustration.
