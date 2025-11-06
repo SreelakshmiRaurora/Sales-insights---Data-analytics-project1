@@ -1,1 +1,1 @@
-# Sales-insights---Data-analytics-project1
+# Sales insights data analyis using SQL and PowerBI
