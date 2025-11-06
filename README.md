@@ -1,1 +1,1 @@
-# Sales insights data analyis using SQL and PowerBI
+# Sales insights data analysis using SQL and PowerBI
