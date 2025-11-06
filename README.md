@@ -3,3 +3,4 @@
 ## Objective
 AtliQ hardware is a company which delievers computer hardware & peripheral manufacturers to the clients, which has several branches throught India.The sales director of the company is facing a lot of issues in terms of understanding how the business is performing and what are the problems company is facing currently as the sales are not as expected and declining gradually. And whenever the director  calls the regional manager to get the current status of the sales and market, as a human behavior , these people are not comfortable in consuming numbers from excel files, which is obvious reasson for the frustration.
 ## Solution
+Sales director of the AtliQ hardware, decided to build a PowerBi Dashboard for converting the data into visual representation to make Data driven decisions.So, he hired a team of data analysis people to complete this task.
